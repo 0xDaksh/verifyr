@@ -1,6 +1,6 @@
 # Verifyr
 
-[Verifyr Website](Verifyr.js.org)
+[Verifyr Website](https://Verifyr.js.org)
 
 ### Verify data in an chain like syntax
 
